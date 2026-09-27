@@ -9,5 +9,8 @@ my projects and labs submissions of AIML
 ### 2. Module 1 – Lab 1: Introduction to Machine Learning and Feature Extraction
 - Machine learning, feature extraction, classification, regression, and text processing.
 
+### 3. Module 1 – Lab 2: Machine Learning Terms and Metrics
+- Machine learning concepts, KNN classification, and accuracy metrics.
+
 ## Tools & Libraries
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn.
