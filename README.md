@@ -20,6 +20,10 @@ My projects and lab submissions for AIML.
 
 - Data augmentation using rotation and shear, combined augmentations, grid search, and MNIST digit recognition using 50 images per digit.
 
+### 5. Module 1 – Lab 4: Transforming Data Using Linear Algebra
+
+- Transforming data using linear algebra, feature scaling,transformation matrices, and improving machine learning accuracy through feature transformations.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
