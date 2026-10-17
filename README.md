@@ -28,6 +28,10 @@ My projects and lab submissions for AIML.
 
 - Data visualization using Matplotlib and Seaborn to analyze automobile features and prices.
 
+### 7. Module 2 – Lab 2: Principal Components Analysis (PCA)
+
+- Dimensionality reduction, explained variance, and 2D/3D visualization using PCA.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
