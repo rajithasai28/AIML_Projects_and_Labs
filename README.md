@@ -24,6 +24,10 @@ My projects and lab submissions for AIML.
 
 - Transforming data using linear algebra, feature scaling,transformation matrices, and improving machine learning accuracy through feature transformations.
 
+### 6. Module 2 – Lab 1: Basic Plots
+
+- Data visualization using Matplotlib and Seaborn to analyze automobile features and prices.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
