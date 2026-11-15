@@ -32,6 +32,10 @@ My projects and lab submissions for AIML.
 
 - Dimensionality reduction, explained variance, and 2D/3D visualization using PCA.
 
+### 8. Module 2 – Lab 3A: Manifold Learning (Isomap)
+
+- Manifold learning using Isomap, S-curve dataset visualization, nearest neighbours, geodesic distances, dimensionality reduction, and comparison of PCA with Isomap.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
