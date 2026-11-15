@@ -36,6 +36,9 @@ My projects and lab submissions for AIML.
 
 - Manifold learning using Isomap, S-curve dataset visualization, nearest neighbours, geodesic distances, dimensionality reduction, and comparison of PCA with Isomap.
 
+### 9. Module 2 – Lab 3B: t-Distributed Stochastic Neighbor Embedding (t-SNE)
+- Dimensionality reduction and high-dimensional data visualization using t-SNE, MNIST handwritten digit clustering, perplexity tuning, iteration comparisons, and PCA vs t-SNE analysis.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
