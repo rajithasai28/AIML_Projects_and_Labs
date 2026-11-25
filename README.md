@@ -46,6 +46,13 @@ My projects and lab submissions for AIML.
 - KNN classification for reviews and spam datasets.
 - Compared accuracy using different KNN parameters.
 
+### 11. Module 3 – Lab 1: Loss Functions and Gradient Descent
+
+- Implemented Batch, Stochastic, and Mini-Batch Gradient Descent.
+- Compared batch sizes and learning rates.
+- Tested gradient descent methods on the Diabetes dataset.
+- Implemented a learning rate schedule for SGD.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
