@@ -60,6 +60,12 @@ My projects and lab submissions for AIML.
 - Studied underfitting and overfitting.
 - Applied regression to the California Housing Dataset.
 
+### 13. Module 3 – Lab 3: Regression
+
+- Implemented Ridge, Lasso, SVR and Logistic Regression.
+- Tested different parameter values and datasets.
+- Evaluated model performance.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
