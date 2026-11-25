@@ -53,6 +53,13 @@ My projects and lab submissions for AIML.
 - Tested gradient descent methods on the Diabetes dataset.
 - Implemented a learning rate schedule for SGD.
 
+### 12. Module 3 – Lab 2: Linear Regression
+
+- Implemented Linear and Polynomial Regression.
+- Experimented with different polynomial degrees.
+- Studied underfitting and overfitting.
+- Applied regression to the California Housing Dataset.
+
 ## Tools & Libraries
 
 Python, Google Colab, NumPy, Pandas, Matplotlib, Scikit-learn, Keras, and Scikit-image.
